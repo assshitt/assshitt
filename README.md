@@ -1,6 +1,6 @@
-### Ashit Khobragade
+<a href="https://ashitdesign.framer.website"><img src="assets/banner.jpg" alt="Ashit Khobragade, product designer and developer at IIT Delhi" width="100%"></a>
 
-Product designer and developer, studying design at IIT Delhi.
+<br>
 
 I like owning the whole journey: talking to the first users, finding the real problem, designing the product and its brand, and then building it myself. If it doesn't work for the people using it and for the business behind it, it isn't done.
 
